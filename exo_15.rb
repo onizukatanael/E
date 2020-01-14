@@ -5,7 +5,7 @@ user_age = 0
 
 start = user_year
 
-while start <= 2017
+while start <= 2020
   puts "Tu as eu #{user_age} ans en #{start}."
   user_age +=1
   start += 1
